@@ -5,7 +5,7 @@
 <hr>
 <h5 align="center">Frontend Web Development Beginner.</h5>
 
-- <img src= "https://1.bp.blogspot.com/-tgSoinVx0z4/YBAiA5qQxnI/AAAAAAAACL0/LoPB6Vjb5CcHPbYY5vP7m9zmkAJaDxJngCLcBGAsYHQ/w200-h200/web-development.png" style="width:10px;height:10px;"> I’m currently working on My Portfolio Website
+- <img src= "https://1.bp.blogspot.com/-tgSoinVx0z4/YBAiA5qQxnI/AAAAAAAACL0/LoPB6Vjb5CcHPbYY5vP7m9zmkAJaDxJngCLcBGAsYHQ/w200-h200/web-development.png" style="width:1px;height:1px;"> I’m currently working on My Portfolio Website
 - 🔭 I’m currently working on My Portfolio Website
 - 🌱 I’m currently learning Frontend Web Development
 - 👯 I’m beginner in web development
