@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi there 👋, I Am Avinash Wadkar.</h2>
 <hr>
-<h5 align="center">Frontend Web Development Beginner</h5>
+<h5 align="center">Frontend Web Development Beginner.</h5>
 
 - 🔭 I’m currently working on My Portfolio Website
 - 🌱 I’m currently learning Frontend Web Development
